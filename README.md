@@ -8,6 +8,10 @@ Site de uma loja virtual institucional feito para a Situação de Aprendizagem 0
 - produtos.html - produtos e tabela de frete
 - contato.html - formulário de contato
 
+## Imagens
+
+As imagens ficam na pasta img/ em formato SVG (ilustrações vetoriais leves, que não perdem qualidade em nenhum tamanho de tela). A página inicial tem logotipo, banner da promoção, imagens das categorias e uma seção de destaques da semana.
+
 ## Linguagens de marcação
 
 **HTML** serve para montar a estrutura das páginas da web (títulos, textos, imagens, links, formulários). É o que usei neste site.

@@ -118,3 +118,28 @@ footer {
     text-align: center;
     padding: 10px;
 }
+
+.marca {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.banner img {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    display: block;
+    margin: 0 auto 15px;
+    border-radius: 5px;
+}
+
+.card img {
+    height: 160px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
